@@ -8,9 +8,7 @@ Descarga la versión 1.20.1 - Forge 47.2.0 https://files.minecraftforge.net/net/
 
 Instalación completada.
 
-![image](https://github.com/xThreeh/Minecrafterz/assets/16139465/8410f1f3-935a-4311-8d6c-c908d11232e7)
 ![image](https://github.com/xThreeh/Minecrafterz/assets/16139465/d528cb91-8ff1-4214-90f1-794532d9f0d8)
 
-
-Descarga la ultima versión de Mods compatible en https://github.com/xThreeh/Minecrafterz/releases/tag/Minecrafterz
+Descarga la ultima versión de Mods compatibles en https://github.com/xThreeh/Minecrafterz/releases/tag/Minecrafterz
 
