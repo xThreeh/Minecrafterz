@@ -10,7 +10,6 @@ Instalación completada.
 
 ![image](https://github.com/xThreeh/Minecrafterz/assets/16139465/d528cb91-8ff1-4214-90f1-794532d9f0d8)
 
-![image](https://github.com/xThreeh/Minecrafterz/assets/16139465/2c0a144d-7859-4ddd-9e00-36aa787c0247)
 ![image](https://github.com/xThreeh/Minecrafterz/assets/16139465/abc5e746-e674-4d11-a8ef-38efbc49df86)
 ![image](https://github.com/xThreeh/Minecrafterz/assets/16139465/df6ef3ee-6e7c-4448-9b45-0d3c4186c265)
 
