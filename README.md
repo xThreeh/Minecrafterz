@@ -19,6 +19,7 @@ Aumenta la memoria RAM para mejorar el rendimiento, cambia el valor numerico por
 -Xmx2G -Xmx4G -Xmx6G
 ![image](https://github.com/xThreeh/Minecrafterz/assets/16139465/08e3366a-9e17-45ea-95d7-1609ebe459f8)
 
-Descarga las ultimas versiones de Mods, Shaderpacks & Resourcepacks compatibles en https://github.com/xThreeh/Minecrafterz/releases/tag/Minecrafterz
+Descarga las ultimas versiones de mods, shaderpacks y resourcepacks compatibles:
+https://github.com/xThreeh/Minecrafterz/releases/tag/Minecrafterz
 https://github.com/xThreeh/Minecrafterz/releases/tag/Shaderpacks
 
