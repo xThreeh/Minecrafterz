@@ -15,7 +15,7 @@ Añade más memoria RAM a Minecraft, accede a editar.
 En la parte inferior dale a "más opciones"
 ![image](https://github.com/xThreeh/Minecrafterz/assets/16139465/df6ef3ee-6e7c-4448-9b45-0d3c4186c265)
 
-Aumenta la memoria RAM para mejorar el rendimiento de tu Minecraft, Puedes cambiar el valor numerico por la cantidad de RAM que deseas, por ejemplo para 2, 4 y 6 de memoria RAM sería respectivamente:
+Aumenta la memoria RAM para mejorar el rendimiento, cambia el valor numerico por la cantidad de RAM que deseas. Por ejemplo para 2, 4 y 6GB de memoria RAM sería respectivamente:
 -Xmx2G -Xmx4G -Xmx6G
 ![image](https://github.com/xThreeh/Minecrafterz/assets/16139465/08e3366a-9e17-45ea-95d7-1609ebe459f8)
 
