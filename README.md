@@ -1,4 +1,4 @@
-# Minecrafterz 177.221.141.105:25565
+# Minecrafterz 38.7.199.164:25568
 Mods and Shadders to MC Server.
 
 Descarga la versión 1.20.1 - Forge 47.2.0 https://files.minecraftforge.net/net/minecraftforge/forge/
